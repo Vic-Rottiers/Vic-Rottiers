@@ -1,4 +1,4 @@
-
+<!--
 ### Hi there, Vic here 👋
 
 #### Nothing special to see here, just an Applied Informatics student trying to keep his stuff together..
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
