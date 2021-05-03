@@ -1,4 +1,4 @@
-#### My info:
+## My info:
 
 - 🌱 I’m currently learning: Applied Informatics @ Hogent
 - 📫 How to reach me: Twitter @vicZOZ
