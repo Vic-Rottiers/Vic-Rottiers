@@ -16,3 +16,9 @@
 - 🔭 I’m looking to learn a lot more about System Administration and servers
 - 💬 Ask me about: (almost) anything 😉
 
+<!--
+## My stats:
+
+[![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-rottiers)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
