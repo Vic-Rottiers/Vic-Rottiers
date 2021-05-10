@@ -18,7 +18,7 @@
 
 
 ## My stats:
-
-[![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=vic-rottiers)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p align="">
+<img alt="Vic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vic-Rottiers&show_icons=true&count_private=true&hide_border=true" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-Rottiers&show_icons=true&theme=buefy&layout=compact" />  
+</p>
