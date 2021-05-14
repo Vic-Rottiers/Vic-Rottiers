@@ -18,9 +18,7 @@
 
 
 ## My stats:
-<p align="">
-  ![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vic-Rottiers&count_private=true)
+![Vic's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vic-Rottiers&count_private=true)
 
-<img alt="Vic's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Vic-Rottiers&show_icons=true&count_private=true&hide_border=true?count_private=true" /><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-Rottiers&show_icons=true&theme=buefy&layout=compact" />  
-</p>
+
